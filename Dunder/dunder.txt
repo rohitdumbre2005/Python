@@ -1,0 +1,4 @@
+automatic initialization 
+readable output 
+custom behavior 
+clean and reusable code 
